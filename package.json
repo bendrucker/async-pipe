@@ -1,7 +1,7 @@
 {
   "name": "async-pipe",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create an async data pipeline",
   "license": "MIT",
   "repository": "bendrucker/async-pipe",
