@@ -1,4 +1,4 @@
-# async-pipe [![Build Status](https://travis-ci.org/bendrucker/async-pipe.svg?branch=master)](https://travis-ci.org/bendrucker/async-pipe)
+# async-pipe [![Build Status](https://travis-ci.org/bendrucker/async-pipe.svg?branch=master)](https://travis-ci.org/bendrucker/async-pipe) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/async-pipe.svg)](https://greenkeeper.io/)
 
 > Create an async data pipeline
 
